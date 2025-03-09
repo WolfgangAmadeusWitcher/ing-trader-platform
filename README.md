@@ -1,6 +1,6 @@
 # ing-trader-platform
 
-- We have four test users under the platform, one is admin and the other ones are standard Users.
+We have four test users under the platform, one is admin and the other ones are standard Users.
 
   The credentials are as follows;
 
